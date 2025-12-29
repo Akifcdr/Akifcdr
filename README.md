@@ -3,7 +3,8 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akif-abdullah-5279a3293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akifabdullah199@gmail.com)
+- [LinkedIn: Akif Abdullah](https://www.linkedin.com/in/akif-abdullah-5279a3293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email: akifabdullah199@gmail.com](mailto:akifabdullah199@gmail.com)
 
 
 # 💻 Tech Stack:
